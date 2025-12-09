@@ -1,1 +1,5 @@
-SELECT * FROM PRODUCTS
+SELECT * FROM products
+
+
+
+SELECT DISTINCT name from products
